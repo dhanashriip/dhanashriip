@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Power BI**
 
+- 💬 Ask me about **Html, CSS, SQL**
+
 - 📫 How to reach me **dhanashripatil246@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanashriip&show_icons=true&locale=en" alt="dhanashriip" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanashriip&" alt="dhanashriip" /></p>
+
