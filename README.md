@@ -5,7 +5,7 @@
 <!-- 
 - 🌱 I’m currently learning **Power BI** -->
 
-- 💬 Ask me about **HTML, CSS, SQL**
+- 💬 Ask me about **HTML, CSS, Basic JavaScript, SQL**
 
 - 📫 How to reach me **dhanashripatil246@gmail.com**
 
